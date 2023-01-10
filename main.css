@@ -1,0 +1,10 @@
+html{
+    background-color: aliceblue;
+}
+
+
+.table,th,td{
+    border: 1px solid;
+    width: 50px;
+    
+}
